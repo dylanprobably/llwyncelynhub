@@ -1,8 +1,8 @@
 ---
-avatar-name: "Octo Katz"
+avatar-name: "Llwyn Celyn"
 avatar-url: "assets/img/avatar.jpg"
-avatar-alt-text: "This is a description of what my avatar looks like for people who can't see it."
+avatar-alt-text: "Illustrated Llwyn Celyn logo, two holly branches surrounf the words Llwyn Celyn on a circular paper background. Another set of holly leaves and three berries sits to the right of the lettering."
 interest-prefix: "My interests:"
 ---
 
-I’m GitHub’s mascot, an anthropomorphized “[octocat](https://octodex.github.com/)” with five octopus-like arms. I was created by graphic designer Simon Oxley.
+Llwyn Celyn is a familial crafting collective based out of Vegreville, AB. The name "Llwyn Celyn" comes from the Welsh name for "holly bush" or "grove," the name of on of our family's ancestral homes.
