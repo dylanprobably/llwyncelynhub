@@ -3,7 +3,7 @@
   icon: bag-heart
 - text: Facebook
   url: https://www.facebook.com/profile.php?id=61568515210086
-  icon: facebook
+  icon: brands/facebook
 - text: Instagram
   url: https://www.instagram.com/llwyncelyncreations/
-  icon: instagram
+  icon: brands/instagram
