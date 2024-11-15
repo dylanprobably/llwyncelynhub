@@ -1,9 +1,9 @@
 - text: Custom Order Form
   url: https://forms.gle/FsvWd6edDqHH7RkW6
-  icon: bag-heart
+  icon: bag-heart.svg
 - text: Facebook
   url: https://www.facebook.com/profile.php?id=61568515210086
-  icon: facebook
+  icon: facebook.svg
 - text: Instagram
   url: https://www.instagram.com/llwyncelyncreations/
-  icon: instagram
+  icon: instagram.svg
