@@ -1,6 +1,6 @@
 ---
 avatar-name: "Llwyn Celyn"
-avatar-url: "assets/img/avatar.jpg"
+avatar-url: "assets/img/Llywn Cellen Logo polished.png"
 avatar-alt-text: "Illustrated Llwyn Celyn logo, two holly branches surrounf the words Llwyn Celyn on a circular paper background. Another set of holly leaves and three berries sits to the right of the lettering."
 interest-prefix: "Our Wares:"
 ---
