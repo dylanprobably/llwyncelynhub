@@ -1,0 +1,3 @@
+.simplelinear {
+  background: linear-gradient(red, green);
+}
