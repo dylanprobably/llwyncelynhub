@@ -5,4 +5,5 @@ avatar-alt-text: "Illustrated Llwyn Celyn logo, two holly branches surrounf the 
 interest-prefix: "Our Wares:"
 ---
 
-Llwyn Celyn is a familial crafting collective based out of Vegreville, AB. The name "Llwyn Celyn" comes from the Welsh name for "holly bush" or "grove," the name of on of our family's ancestral homes.
+Hi there! You've reached the hub for Llwyn Celyn and we're so glad you could join us! Overviews of our products, links to socials, and our custom order form are below!
+Llwyn Celyn is a familial crafting collective based out of Vegreville, AB. The name "Llwyn Celyn" comes from the Welsh name for "holly bush."
